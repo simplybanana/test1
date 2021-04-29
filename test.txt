@@ -11,7 +11,7 @@ Specview charts
 
 120 TUS:
 3/12 - 1400 - need spec view
-3/8 - 300/900 - to do
+3/8 - 300/900 - to do 1
 
 118 TUS:
 Datalogger error
