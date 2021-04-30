@@ -4,14 +4,22 @@ scan qr
 offsets for TUS
 picture of rack not populating/custom picture not saving
 
-66 TUS:
-Specview charts
-3/10 - 1000 - need spec view
-3/19 - 1600/2200 - need spec view
-
 120 TUS:
-3/12 - 1400 - need spec view
-3/8 - 300/900 - to do 12
+Waiting for c3 on updated time table
 
 118 TUS:
 Datalogger error
+
+TUS To do:
+104
+105
+116
+117
+16
+13
+14
+33
+64
+68
+70
+124
